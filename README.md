@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Sylkos! (Jake K)
+Hi, I’m Sylkos! (Jake K)
 
 Mostly I just write java code for minecraft related reasons.
 
-I'm currently rewriting my discord bot!
+I've messed around a bit with C++, Mathematica, and R.
+
+I'm currently rewriting my discord bot and trying to learn more about minecraft modding.
+
+In the future I'd love to learn some Python and JS as well as continue to improve my skills in Java.
+
+If you would like to contact me, the best way to do so is on discord at Sylkos#0540
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylk0s&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylk0s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylk0s&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+https://www.youtube.com/Sylkos
