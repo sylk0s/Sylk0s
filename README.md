@@ -14,4 +14,4 @@ If you would like to contact me, the best way to do so is on discord at Sylkos#0
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylk0s&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://www.youtube.com/Sylkos
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCeeEphYNfG0NutXAoakI3kg?style=for-the-badge)](https://www.youtube.com/Sylkos)
