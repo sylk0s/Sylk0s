@@ -8,7 +8,7 @@ I'm currently rewriting my discord bot and trying to learn more about minecraft 
 
 In the future I'd love to learn some Python and JS as well as continue to improve my skills in Java and C++.
 
-If you would like to contact me, the best way to do so is on discord at Sylkos#0540
+If you would like to contact me, the best way to do so is on discord at Sylkos#5840
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylk0s&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
