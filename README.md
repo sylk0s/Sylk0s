@@ -1,6 +1,6 @@
 Hi, I’m Sylkos! (Jake K)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylk0s&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylk0s&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages:
 
@@ -30,3 +30,5 @@ Social:
 [![GitHub](https://img.shields.io/github/followers/Sylk0s?color=192841&label=Sylk0s&logo=github&logoColor=192841&style=for-the-badge)](https://github.com/Sylk0s)
 
 If you would like to contact me, the best way to do so is on discord @Sylkos#5840
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylk0s&hide=Mathematica&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
