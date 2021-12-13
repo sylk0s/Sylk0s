@@ -13,8 +13,8 @@ Tools:
 
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-gray?style=flat-square&logo=Github&logoColor=white)
-![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
-![VScode](https://img.shields.io/badge/VScode-0084e0?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/Intellij-ff0066?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![VScodium](https://img.shields.io/badge/VScodium-0084e0?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-2e6930?style=flat-square&logo=vim&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-009dff?style=flat-square&logo=archlinux&logoColor=white)
 
