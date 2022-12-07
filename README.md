@@ -43,4 +43,4 @@ Social:
 
 If you would like to contact me, the best way to do so is on discord @Sylkos#5840
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylk0s&hide=Mathematica&langs_count=8&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylk0s&hide=Mathematica&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
