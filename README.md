@@ -4,11 +4,14 @@ Hi, I’m Sylkos!
 
 Languages:
 
+![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffba01?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Mathematica-ff0000?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 ![R](https://img.shields.io/badge/R-1261a0?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-690fad?style=for-the-badge&logo=latex&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 Tools:
 
@@ -22,17 +25,15 @@ Tools:
 
 Learning:
 
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-61587a?style=for-the-badge&logo=julia&logoColor=white)
+![React](https://img.shields.io/badge/React-009dff?style=for-the-badge&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-03254c?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 Want to learn:
 
-![C++](https://img.shields.io/badge/C++-03254c?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-03ac13?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-efa536?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
