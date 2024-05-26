@@ -1,6 +1,6 @@
 Hi, I’m Sylkos!
 
-Languages (Most to least used/prefered):
+Languages (Most to least used/preferred):
 
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=coffeescript&logoColor=white)
