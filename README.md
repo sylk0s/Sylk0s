@@ -3,17 +3,15 @@ Hi, I’m Sylkos!
 Languages (Most to least used/preferred):
 
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=coffeescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-ffba01?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-3366ff?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C++](https://img.shields.io/badge/C++-03254c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ffba01?style=for-the-badge&logo=python&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-1261a0?style=for-the-badge&logo=nixos&logoColor=white)
+![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-339966?style=for-the-badge&logo=javascript&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-cd0a20?style=for-the-badge&logo=racket&logoColor=white)
+![C++](https://img.shields.io/badge/C++-03254c?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-690fad?style=for-the-badge&logo=latex&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-03254c?style=for-the-badge&logo=lua&logoColor=white)
-![R](https://img.shields.io/badge/R-1261a0?style=for-the-badge&logo=r&logoColor=white)
-![Mathematica](https://img.shields.io/badge/Mathematica-ff0000?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 
 
 Tools:
